@@ -74,14 +74,11 @@ internal class Program
         }
         */
         BrusInfo brus= new BrusInfo();
-        
-       
+        _ = brus.GetBrusInfo("dd", 24);
 
-        brus.GetBrusInfo("dd",23);
-        
 
-        
-        
+
+
 
 
 
