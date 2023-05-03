@@ -1,0 +1,15 @@
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\bin\Debug\net7.0\Selv_TesterApp.exe
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\bin\Debug\net7.0\Selv_TesterApp.deps.json
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\bin\Debug\net7.0\Selv_TesterApp.runtimeconfig.json
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\bin\Debug\net7.0\Selv_TesterApp.dll
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\bin\Debug\net7.0\Selv_TesterApp.pdb
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.csproj.AssemblyReference.cache
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.AssemblyInfoInputs.cache
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.AssemblyInfo.cs
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.dll
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\refint\Selv_TesterApp.dll
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.pdb
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\Selv_TesterApp.genruntimeconfig.cache
+C:\Users\Bruker\Desktop\Selv_TesterApp\Selv_TesterApp\obj\Debug\net7.0\ref\Selv_TesterApp.dll
